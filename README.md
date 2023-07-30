@@ -27,4 +27,4 @@ An example of how to use the sum function can be found in the file sum_example.c
 gcc -c -Wall -Wextra -std=c17 -O2 -o sum_example.o sum_example.c
 gcc -z noexecstack -o sum_example sum_example.o sum.o
 ```
-# Sum
+
